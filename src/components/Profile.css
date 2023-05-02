@@ -1,0 +1,9 @@
+.profile-card{
+    height: 220px;
+}
+label{
+    display: block;
+}
+button{
+    margin-top: 20px
+}
